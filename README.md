@@ -6,3 +6,4 @@ which
 main
 test ssh fedora
 test ssh pop os
+test ssh ubunut
